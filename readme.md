@@ -32,8 +32,7 @@ Button Styles: You can further modify the Get Started button styles in the style
 Fonts: Modify the font styles or integrate new fonts using Google Fonts in the CSS file. 
 
 #### Project Structure
-bash
-Copy code
+
 ├── assets
 │   └── hero-image.png        # Hero image used in the hero section
 ├── css
