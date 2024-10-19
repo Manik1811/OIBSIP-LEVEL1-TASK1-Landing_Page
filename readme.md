@@ -33,12 +33,12 @@ Fonts: Modify the font styles or integrate new fonts using Google Fonts in the C
 
 #### Project Structure
 
-├── assets
-│   └── hero-image.png        # Hero image used in the hero section
-├── css
-│   └── style.css             # Styles for the landing page
-├── index.html                # Main HTML file
-└── README.md                 # Project documentation
+## ├── assets
+## │   └── hero-image.png        # Hero image used in the hero section
+## ├── css
+## │   └── style.css             # Styles for the landing page
+## ├── index.html                # Main HTML file
+## └── README.md                 # Project documentation
 
 ##### ontributing
 Feel free to submit issues and pull requests for any improvements or changes. Contributions are always welcome!
